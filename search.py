@@ -1,6 +1,6 @@
 import requests
 
-# Enter your API key and Free Company ID here
+# Enter your API key and Free Company ID here your API_key can be obtained from https://xivapi.com/
 api_key = "your_api_key_here"
 fc_id = "your_fc_id_here"
 
